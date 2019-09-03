@@ -69,7 +69,7 @@ You will earn participation points by actively participating in class.  Based on
 
 A student may only receive a passing grade if they submit a final project.  Your final grade may also be lowered if your project does not meet all requirements.  This should not really be a problem, as the other assignments will force you to meet those requirements, but discretion may be used in edge cases where the completed project did not meet all the requirements.
 
-## Plagiarism and adapting tho work of others
+## Plagiarism and adapting the work of others
 
 When the assignments require narrative or written (e.g. non-code) answers, appropriate attribution and citation is required. This is a graduate level course and all students are expected to know and understand the concept of plagiarism and academic integrity. Several writing centers offer services to answer questions about plagiarism. The instructor will follow one of the standard procedures when plagiarism is submitted: http://studentcode.illinois.edu/article1_part4_1-402.html. Students will be given 0 points for an assignment if it contains plagiarism in whole or in part. No make up work will be accepted to replace that grade. The instructor reserves the right to fail a student if more serious plagiarism is found.
 
@@ -87,9 +87,9 @@ Most assignments are due on Sunday evenings. There are a few exceptions, so alwa
 
 ### Extension
 
-Each student may use up to two extention requests for regular homeworks.  These will give you an extra four days to submit without penalty.  Homework items meant to be used during class, the final project submission, and final presentation subsissions are ineligible for any extensions aside from a personal crisis.  You only need to email me to say that you are using an extension.  You don't need to ask for permission (presuming that you're requesting it for an assignment that permits an extension).
+Each student may use up to two extension requests for regular homeworks.  These will give you an extra four days to submit without penalty.  Homework items meant to be used during class, the final project submission, and final presentation subsissions are ineligible for any extensions aside from a personal crisis.  You only need to email me to say that you are using an extension.  You don't need to ask for permission (presuming that you're requesting it for an assignment that permits an extension).
 
-Extention requests must be submitted by 11:55pm Monday (with an 8 hour grace period going into Tuesday.
+Extension requests must be submitted by 11:55pm Monday (with an 8 hour grace period going into Tuesday.
 
 ### Late penalties
 
